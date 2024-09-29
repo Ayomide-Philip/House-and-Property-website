@@ -57,10 +57,7 @@ div.overlay {
 div.overlay>div.text>h1 {
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700;
+    font-weight: bold;
     font-style: normal;
-    font-size: xx-large;
-    font-variation-settings:
-        "wdth" 100;
-
+    font-size: 50px;
 }

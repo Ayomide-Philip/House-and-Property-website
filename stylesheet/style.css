@@ -60,7 +60,7 @@ div.overlay>div.text>h1 {
     font-weight: bold;
     font-style: normal;
     font-size: 50px;
-    text-shadow: 5px 3px 2px black;
+    text-shadow: 7px 3px 2px black;
 }
 
 div.overlay>div.text>p {
@@ -68,6 +68,6 @@ div.overlay>div.text>p {
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
-    font-size: larger;
+    font-size: x-large;
     text-shadow: 5px 3px 2px black;
 }

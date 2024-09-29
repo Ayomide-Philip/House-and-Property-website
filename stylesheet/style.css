@@ -1,0 +1,8 @@
+.navbar-collapse {
+    justify-content: end;
+}
+
+nav {
+    position: fixed !important;
+    width: 100%;
+}

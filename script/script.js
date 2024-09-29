@@ -3,11 +3,12 @@ const imageSlideArray = [
   "./images/container-image/pexels-atomlaborblog-1105754.jpg",
   "./images/container-image/pexels-pok-rie-33563-28628302.jpg",
   "./images/container-image/pexels-quang-nguyen-vinh-222549-2155202.jpg",
+  "./images/container-image/pexels-frans-van-heerden-201846-1438834.jpg",
 ];
 
 const imageSlide = document.getElementById("image-slide");
 
-setInterval(imageSlideAnimation, 3000);
+setInterval(imageSlideAnimation, 5000);
 
 var i = 0;
 

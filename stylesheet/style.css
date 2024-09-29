@@ -7,6 +7,7 @@ nav {
     width: 100%;
     background-color: #4682B4;
     z-index: 1;
+    top: 0;
 }
 
 .navbar-brand>img {
@@ -33,4 +34,8 @@ div.image-container>div.image>img {
 
 div.image-container {
     position: relative;
+}
+
+div.main-container {
+    margin-top: 50px;
 }

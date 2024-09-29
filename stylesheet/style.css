@@ -43,3 +43,12 @@ div.image-container {
 div.main-container {
     margin-top: 50px;
 }
+
+div.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}

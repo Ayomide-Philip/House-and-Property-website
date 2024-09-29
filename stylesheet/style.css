@@ -33,6 +33,7 @@ nav {
 div.image-container>div.image>img {
     width: 100%;
     height: 80vh;
+    object-fit: cover;
 }
 
 div.image-container {

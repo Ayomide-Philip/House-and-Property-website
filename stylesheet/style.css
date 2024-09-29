@@ -51,14 +51,16 @@ div.overlay {
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
-    
+    color: white;
 }
 
-div.overlay > div.text > h1{
-    font-family: "Fredoka", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+div.overlay>div.text>h1 {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    font-variation-settings:
+        "wdth" 100;
+
 }

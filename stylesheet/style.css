@@ -82,3 +82,7 @@ div.overlay>div.text>p {
         text-shadow: 7px 3px 2px black;
     }
 }
+
+body {
+    background-color: rgb(247, 247, 247);
+}

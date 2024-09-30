@@ -91,7 +91,9 @@ div.content-container {
     margin-top: 2%;
 }
 
-div.about{
+div.about {
     width: 100%;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

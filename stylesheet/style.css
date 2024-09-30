@@ -86,3 +86,7 @@ div.overlay>div.text>p {
 body {
     background-color: rgb(247, 247, 247);
 }
+
+div.content-container {
+    margin-top: 2%;
+}

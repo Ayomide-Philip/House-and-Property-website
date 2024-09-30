@@ -24,5 +24,11 @@ function imageSlideAnimation() {
   }
 }
 
-
 // I wanna create a number counter
+
+const numberCounter = document.querySelectorAll(".flex-number>.number");
+console.log(numberCounter);
+
+for (let i = 0; i < numberCounter.length; i++) {
+  console.log(Number(numberCounter[i].innerHTML));
+}

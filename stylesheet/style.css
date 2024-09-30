@@ -71,3 +71,14 @@ div.overlay>div.text>p {
     font-size: x-large;
     text-shadow: 5px 3px 2px black;
 }
+
+@media (max-width : 600px) {
+    div.overlay>div.text>h1 {
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 40px;
+        text-shadow: 7px 3px 2px black;
+    }
+}

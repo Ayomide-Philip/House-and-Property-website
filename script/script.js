@@ -8,6 +8,7 @@ const imageSlideArray = [
   "./images/container-image/DesktopWeb-Hero-V2.avif",
 ];
 
+// Getting the image using my DOM
 const imageSlide = document.getElementById("image-slide");
 
 setInterval(imageSlideAnimation, 5000);

@@ -97,3 +97,9 @@ div.about {
     justify-content: center;
     align-items: center;
 }
+
+div.about-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

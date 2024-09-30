@@ -5,6 +5,7 @@ const imageSlideArray = [
   "./images/container-image/pexels-pok-rie-33563-28628302.jpg",
   "./images/container-image/pexels-quang-nguyen-vinh-222549-2155202.jpg",
   "./images/container-image/pexels-frans-van-heerden-201846-1438834.jpg",
+  "./images/container-image/DesktopWeb-Hero-V2.avif",
 ];
 
 const imageSlide = document.getElementById("image-slide");

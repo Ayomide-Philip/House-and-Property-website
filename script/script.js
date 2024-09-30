@@ -30,5 +30,9 @@ const numberCounter = document.querySelectorAll(".flex-number>.number");
 console.log(numberCounter);
 
 for (let i = 0; i < numberCounter.length; i++) {
-  console.log(Number(numberCounter[i].innerHTML));
+  const numberCount = Number(numberCounter[i].innerHTML);
+
+  for (let i = 0; i < numberCount; i++) {
+    console.log(i);
+  }
 }

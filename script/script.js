@@ -32,7 +32,9 @@ console.log(numberCounter);
 for (let i = 0; i < numberCounter.length; i++) {
   const numberCount = Number(numberCounter[i].innerHTML);
 
-  for (let i = 0; i < numberCount; i++) {
-    console.log(i);
+  for (let j = 0; j <= numberCount; j++) {
+    setTimeout(() => {
+      numberCounter[i].innerHTML = j;
+    }, j * 5);
   }
 }

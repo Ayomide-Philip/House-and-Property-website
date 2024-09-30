@@ -130,7 +130,7 @@ div.about-number {
 div.flex-number>div.number {
     font-size: 50px;
     letter-spacing: 5px;
-    
+    font-weight: bolder;
 }
 
 div.type {

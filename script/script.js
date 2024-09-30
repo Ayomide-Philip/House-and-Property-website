@@ -1,3 +1,4 @@
+// This imageslidearray 
 const imageSlideArray = [
   "./images/container-image/pexels-asadphoto-1268871.jpg",
   "./images/container-image/pexels-atomlaborblog-1105754.jpg",

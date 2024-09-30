@@ -23,3 +23,6 @@ function imageSlideAnimation() {
     i = 0;
   }
 }
+
+
+// I wanna create a number counter

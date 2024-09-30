@@ -1,4 +1,4 @@
-// This imageslidearray 
+// This imageslidearray contains all the image that i want to use for my slide
 const imageSlideArray = [
   "./images/container-image/pexels-asadphoto-1268871.jpg",
   "./images/container-image/pexels-atomlaborblog-1105754.jpg",

@@ -113,6 +113,7 @@ div.about-message {
 div.about-message-content {
     font-size: large;
     font-family: "Open Sans", sans-serif;
+    text-align: center;
 }
 
 div.about-number>.flex-number {
@@ -124,4 +125,14 @@ div.about-number {
     text-align: center;
     justify-content: space-around;
     width: 100%;
+}
+
+div.flex-number>div.number {
+    font-size: 50px;
+    letter-spacing: 5px;
+    
+}
+
+div.type {
+    font-size: 15px;
 }

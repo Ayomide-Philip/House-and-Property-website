@@ -154,4 +154,6 @@ footer {
     background-color: #4682B4;
     justify-content: center;
     align-items: center;
+    font-size: larger;
+    font-weight: bolder;
 }

@@ -87,6 +87,7 @@ div.about {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 2%;
 }
 
 div.about-message {

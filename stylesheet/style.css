@@ -196,3 +196,12 @@ div.grid-container-flex>div.grid-container {
     gap: 2%;
     width: 90%;
 }
+
+div.grid-container-flex>div.grid-container>div.grid-item {
+    background-color: white;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -160,6 +160,12 @@ footer {
     flex-direction: column;
 }
 
-div.social-media>div.icon> a> img {
+div.social-media>div.icon>a>img {
     width: 35px;
+    height: 35px;
+}
+
+div.social-media>div.icon>a>img:hover{
+    position: relative;
+    bottom: 10px;
 }

@@ -181,3 +181,16 @@ div.social-media {
     justify-content: center;
     align-items: center;
 }
+
+div.grid-container-flex {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+div.grid-container-flex>div.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2%;
+}

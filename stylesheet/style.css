@@ -147,3 +147,8 @@ div.type {
         font-size: 14px;
     }
 }
+
+footer {
+    display: flex;
+    padding: 2%;
+}

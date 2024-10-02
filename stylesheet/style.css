@@ -165,7 +165,16 @@ div.social-media>div.icon>a>img {
     height: 35px;
 }
 
-div.social-media>div.icon>a>img:hover{
+
+
+div.social-media>div.icon>a>img:hover {
     position: relative;
     bottom: 10px;
+}
+
+div.social-media {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

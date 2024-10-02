@@ -165,7 +165,10 @@ div.social-media>div.icon>a>img {
     height: 35px;
 }
 
-
+div.social-media>div.icon {
+    margin-left: 1%;
+    margin-right: 1%;
+}
 
 div.social-media>div.icon>a>img:hover {
     position: relative;

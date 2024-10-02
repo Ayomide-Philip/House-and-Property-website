@@ -151,4 +151,5 @@ div.type {
 footer {
     display: flex;
     padding: 2%;
+    background-color: #4682B4;
 }

@@ -38,3 +38,5 @@ for (let i = 0; i < numberCounter.length; i++) {
     }, j * 5);
   }
 }
+
+document.getElementById("date").innerHTML = new Date().getFullYear();

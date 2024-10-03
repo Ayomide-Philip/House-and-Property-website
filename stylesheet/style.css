@@ -253,3 +253,31 @@ div.grid-image>img {
     border-radius: 50%;
     border: 5px solid #4682B4;
 }
+
+@media (min-width:600px) and (max-width: 801px) {
+    div.grid-container-flex>div.grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 2%;
+        width: 90%;
+    }
+
+    div.grid-container-flex {
+        margin-bottom: 5%;
+    }
+}
+
+@media (max-width:600px) {
+    div.grid-container-flex>div.grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1.5fr;
+        gap: 2%;
+        width: 80%;
+    }
+
+    div.grid-container-flex {
+        margin-bottom: 2%;
+    }
+}

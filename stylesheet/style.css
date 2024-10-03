@@ -218,11 +218,12 @@ div.grid-item>div.grid-header {
 }
 
 div.grid-botton>a {
-    width: 70px;
+    width: 100px;
     color: black;
     background-color: white;
-    padding: 2%;
+    padding: 5px;
     border: 2px solid black;
+    border-radius: 5px;
     display: block;
-
+    text-decoration: none;
 }

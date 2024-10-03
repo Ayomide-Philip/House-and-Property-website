@@ -246,3 +246,9 @@ div.grid-botton>a:hover {
 div.grid-container-flex>div.grid-container>div.grid-item>div.grid-botton {
     margin-top: 2%;
 }
+
+div.grid-image>img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

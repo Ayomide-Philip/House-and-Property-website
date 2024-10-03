@@ -208,7 +208,7 @@ div.grid-container-flex>div.grid-container>div.grid-item {
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 2px 3px 5px rgb(101, 99, 99), 6px 2px 7px rgb(110, 107, 107);
+    box-shadow: 2px 3px 5px rgb(210, 209, 209), 6px 2px 7px rgb(223, 220, 220);
 }
 
 div.grid-item>div.grid-header {

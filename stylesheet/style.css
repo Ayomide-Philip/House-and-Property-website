@@ -208,7 +208,7 @@ div.grid-container-flex>div.grid-container>div.grid-item {
     box-sizing: border-box;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 2px 3px 5px black, 6px 2px 7px rgb(235, 227, 227);
+    box-shadow: 2px 3px 5px rgb(235, 227, 227), 6px 2px 7px rgb(235, 227, 227);
 }
 
 div.grid-item>div.grid-header {
@@ -226,4 +226,15 @@ div.grid-botton>a {
     border-radius: 5px;
     display: block;
     text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+
+div.grid-botton>a:hover {
+    color: white;
+    background-color: black;
+}
+
+div.grid-container-flex>div.grid-container>div.grid-item>div.grid-botton {
+    margin-top: 2%;
 }

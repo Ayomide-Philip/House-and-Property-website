@@ -213,8 +213,16 @@ div.grid-container-flex>div.grid-container>div.grid-item {
 
 div.grid-item>div.grid-header {
     font-size: 2rem;
-    font-family: "Open Sans", sans-serif;
-    font-weight: bolder;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+div.grid-botton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 div.grid-botton>a {

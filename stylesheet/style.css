@@ -217,6 +217,12 @@ div.grid-item>div.grid-header {
     font-weight: bolder;
 }
 
-div.grid-botton>a{
-    
+div.grid-botton>a {
+    width: 70px;
+    color: black;
+    background-color: white;
+    padding: 2%;
+    border: 2px solid black;
+    display: block;
+
 }

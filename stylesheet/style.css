@@ -214,4 +214,5 @@ div.grid-container-flex>div.grid-container>div.grid-item {
 div.grid-item>div.grid-header {
     font-size: 2rem;
     font-family: "Open Sans", sans-serif;
+    font-weight: bolder;
 }
